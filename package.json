@@ -1,0 +1,8 @@
+{
+  "name": "GRPC-Node-Python-Go-App",
+  "version": "1.0.0",
+  "description": "Sample Node.JS, Python and Go micro services talking to each other using GRPC",
+  "dependencies": {
+    "grpc": "^1.3.1"
+  }
+}
