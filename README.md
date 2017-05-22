@@ -6,7 +6,7 @@ For Go:
 go get google.golang.org/grpc
 ```
 
-For Node.JS
+For NodeJS
 ```npm install```
 
 For Python
